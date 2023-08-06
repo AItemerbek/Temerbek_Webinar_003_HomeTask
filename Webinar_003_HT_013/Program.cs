@@ -10,20 +10,28 @@ int InputNum(string message)
     return num;
 }
 
-void ThirdDigitReturn(int number)
+int ThirdDigitReturn(int number)
 {
-    int result = number;
-    if (result < 0) result = -result; // проверка на случай ввода отрицательного числа.
-    if (result >= 100)
-    {
-        while (result >= 1000) result = result / 10; // делим число на 10 без учета остатка, пока не получим трехзначное
-        int thirdDigit = result % 10;
-        Console.WriteLine($"Третья цифра в числе {number} это {thirdDigit}");
-    }
-    else Console.WriteLine($"Третьей цифры в числе {number} нет");
+    int thirdDigit = number % 10;
+    return thirdDigit;
+}
+
+int ConvertNumber(int number) // вспомогательная функция для отбрасывания всех цифр после 3-ей
+{
+    while (number >= 1000) number = number / 10;
+    return number;
 }
 
 Console.Clear();
 
 int num = InputNum("Введите любое целое число: ");
-ThirdDigitReturn(num);
+int result = num;
+
+if (result < 0) result = -result; // проверка на случай ввода отрицательного числа.
+
+if (result >= 100)
+{
+    int thirdDigit = ThirdDigitReturn(ConvertNumber(result));
+    Console.WriteLine($"Третья цифра в числе {num} это {thirdDigit}");
+}
+else Console.WriteLine($"Третьей цифры в числе {num} нет");
