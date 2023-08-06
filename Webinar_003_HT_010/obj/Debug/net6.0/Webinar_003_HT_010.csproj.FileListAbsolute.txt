@@ -1,0 +1,15 @@
+D:\3. Data Science\00. Семинары\01. Home Task\230813_C_Sharp\Webinar_003_HT_010\bin\Debug\net6.0\Webinar_003_HT_010.exe
+D:\3. Data Science\00. Семинары\01. Home Task\230813_C_Sharp\Webinar_003_HT_010\bin\Debug\net6.0\Webinar_003_HT_010.deps.json
+D:\3. Data Science\00. Семинары\01. Home Task\230813_C_Sharp\Webinar_003_HT_010\bin\Debug\net6.0\Webinar_003_HT_010.runtimeconfig.json
+D:\3. Data Science\00. Семинары\01. Home Task\230813_C_Sharp\Webinar_003_HT_010\bin\Debug\net6.0\Webinar_003_HT_010.dll
+D:\3. Data Science\00. Семинары\01. Home Task\230813_C_Sharp\Webinar_003_HT_010\bin\Debug\net6.0\Webinar_003_HT_010.pdb
+D:\3. Data Science\00. Семинары\01. Home Task\230813_C_Sharp\Webinar_003_HT_010\obj\Debug\net6.0\Webinar_003_HT_010.csproj.AssemblyReference.cache
+D:\3. Data Science\00. Семинары\01. Home Task\230813_C_Sharp\Webinar_003_HT_010\obj\Debug\net6.0\Webinar_003_HT_010.GeneratedMSBuildEditorConfig.editorconfig
+D:\3. Data Science\00. Семинары\01. Home Task\230813_C_Sharp\Webinar_003_HT_010\obj\Debug\net6.0\Webinar_003_HT_010.AssemblyInfoInputs.cache
+D:\3. Data Science\00. Семинары\01. Home Task\230813_C_Sharp\Webinar_003_HT_010\obj\Debug\net6.0\Webinar_003_HT_010.AssemblyInfo.cs
+D:\3. Data Science\00. Семинары\01. Home Task\230813_C_Sharp\Webinar_003_HT_010\obj\Debug\net6.0\Webinar_003_HT_010.csproj.CoreCompileInputs.cache
+D:\3. Data Science\00. Семинары\01. Home Task\230813_C_Sharp\Webinar_003_HT_010\obj\Debug\net6.0\Webinar_003_HT_010.dll
+D:\3. Data Science\00. Семинары\01. Home Task\230813_C_Sharp\Webinar_003_HT_010\obj\Debug\net6.0\refint\Webinar_003_HT_010.dll
+D:\3. Data Science\00. Семинары\01. Home Task\230813_C_Sharp\Webinar_003_HT_010\obj\Debug\net6.0\Webinar_003_HT_010.pdb
+D:\3. Data Science\00. Семинары\01. Home Task\230813_C_Sharp\Webinar_003_HT_010\obj\Debug\net6.0\Webinar_003_HT_010.genruntimeconfig.cache
+D:\3. Data Science\00. Семинары\01. Home Task\230813_C_Sharp\Webinar_003_HT_010\obj\Debug\net6.0\ref\Webinar_003_HT_010.dll
